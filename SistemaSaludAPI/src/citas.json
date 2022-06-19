@@ -1,0 +1,31 @@
+[
+    {
+        "Id":"1",
+        "fecha":"12/05/2022",
+        "paciente":"Fulano de Tal",
+        "medico":"Jose Mario",
+        "descripcion":"Medicina General"
+    },
+    {
+        "Id":"2",
+        "fecha":"15/05/2022",
+        "paciente":"Juan Ortega",
+        "medico":"Maria Ospina",
+        "descripcion":"Especialidades"
+    },
+    {
+        "Id":"3",
+        "fecha":"25/05/2022",
+        "paciente":"Fulano de Tal",
+        "medico":"asd",
+        "descripcion":"Odontologia"
+    },
+    {
+        "Id":"4",
+        "fecha":"30/05/2022",
+        "paciente":"Fulano de Tal",
+        "medico":"Jose Mario",
+        "descripcion":"Fisioterapeuta"
+    }
+    
+]
